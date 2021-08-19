@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testando minha branch
+=======
+Teste primeira branch
+>>>>>>> f8a1345efa6b6c63d5595821f545a12427e8b6ce
